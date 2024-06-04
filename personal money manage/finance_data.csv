@@ -1,0 +1,6 @@
+Date,Category,Description,Amount,Type
+2024-01-01,Salary,Monthly Salary,3000,Income
+2024-01-05,Groceries,Supermarket shopping,-200,Expense
+2024-01-10,Rent,Monthly rent payment,-1000,Expense
+2024-01-15,Freelance,Freelance project,500,Income
+2024-01-20,Utilities,Electricity bill,-150,Expense

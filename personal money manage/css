@@ -1,0 +1,6 @@
+finance_tracker/
+│
+├── venv/
+├── main.py
+├── finance_data.csv
+└── requirements.txt
